@@ -1,0 +1,5 @@
+echo -e "alias cls="clear"" >> ~/.zshrc
+echo -e "alias cls="clear"" >> ~/.zshrc
+echo -e "alias lt="ls -ltr"" >> ~/.zshrc
+echo -e "alias dn="cd ~/Downloads"" >> ~/.zshrc
+echo -e "alias pip=pip3"" >> ~/.zshrc
